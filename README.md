@@ -1,6 +1,9 @@
 ### Hi there, I'm Naman Jain 👋
 
-## I'm a 4th year , COE Undergrad of NSIT ,Delhi !!
+## SDE-1 at Zomato Media Pvt Ltd. 
+## Building Online Ordering Backend. 
+## 4th year , COE Undergrad of NSIT ,Delhi !!
+## I have 5 months of Wexp .
 
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
